@@ -6,7 +6,7 @@
 - Studying CS + ML @ CMU
 - Currently interning at PearAI (YC F24) 
 - I build scalable full-stack projects and startups
-- Visit my website [rogeryou.com](rogeryou.com) or reach out to me directly at rogeryou@andrew.cmu.edu!
+- Visit my website [rogeryou.com](https://rogeryou.com) or reach out to me directly at rogeryou@andrew.cmu.edu!
 
 ### Projects:
 - daredash - the BeReal for dares
